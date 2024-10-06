@@ -94,21 +94,21 @@ cd ../server
 npm install
 ```
 
-### Usage
+## Usage
 
-## User Registration and Login
+### User Registration and Login
 Users can sign up for a new account or log in to an existing account. Authentication is handled using JWT (JSON Web Token).
 
-## Browse Products
+### Browse Products
 Users can browse products by categories, filter, and search based on product name and price. Pagination is implemented to display products page by page.
 
-## Secure Payments
+### Secure Payments
 Users can add products to the cart and proceed with a secure checkout process using Braintree.
 
-## Admin Features
+### Admin Features
 Admins can manage all products from a dedicated dashboard. They can add new products, update existing ones, delete products, and view orders.
 
-### License
+## License
 
 This project is licensed under the MIT License.
 
